@@ -1,0 +1,3 @@
+### Test logger
+GET http://localhost:3000/logger-test
+Accept: application/json
